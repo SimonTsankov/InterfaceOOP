@@ -19,6 +19,9 @@ public class SalariedEmployee extends  Employee {
         else this.weeklySalary=0.0;
     }
 
+
+
+    //test
     public double getPaymentAmount(){
         return getWeeklySalary();
     }
