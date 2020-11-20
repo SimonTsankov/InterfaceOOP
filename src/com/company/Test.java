@@ -2,6 +2,9 @@ package com.company;
 
 public class Test {
     public static void main(String[] args) {
+
+
+
 // create four-element Payable array
          Payable payableObjects[] = new Payable[ 4 ];
 

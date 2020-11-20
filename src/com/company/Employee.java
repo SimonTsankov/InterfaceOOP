@@ -9,9 +9,7 @@ public abstract class Employee implements Payable{
         lastName=last;
         socialSecurityNumber=id;
     }
-    public Employee(){
 
-    }
     public String getFirstName() {
         return firstName;
     }
